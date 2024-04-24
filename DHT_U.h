@@ -99,3 +99,5 @@ private:
 };
 
 #endif
+
+#include "DHT_U.ipp"

@@ -107,3 +107,5 @@ public:
 };
 
 #endif
+
+#include "DHT.ipp"
